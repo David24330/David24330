@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est David Freitas Morgado
 
-💻 Étudiant en **Bachelor Développement Web Full Stack** (en alternance à Limoges)  
+💻 Étudiant en **Bachelor Développement Web Full Stack** (en recherche d'alternance à Limoges)  
 🎓 Diplômé d’un **BTS Services Informatiques aux Organisations (SIO)**  
 🌍 Passionné par l’**informatique**, le **développement web** et l’apprentissage continu  
 
