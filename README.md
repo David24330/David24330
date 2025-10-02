@@ -21,8 +21,7 @@
 ---
 
 ## 📫 Me retrouver
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-morgado-24a2aa295/)  
-- 🐙 [GitHub](https://github.com/David24330)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-morgado-24a2aa295/)   
 - ✉️ [Me contacter par mail](mailto:dmorgado699@gmail.com)  
 
 ---
